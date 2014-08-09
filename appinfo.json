@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "karan.uci@gmail.com",
+    "longName": "Spartanizer",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Spartanizer",
+    "uuid": "26aad894-4737-4dfe-9c2a-16476c0cadae",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
